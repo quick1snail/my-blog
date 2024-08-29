@@ -1,4 +1,7 @@
 
+
+# 通用规则
+
 ### 字体颜色
 <font face="微软雅黑" size=4 color=red >好雨知时节</font>
 <font size=4 color=grey >好雨知时节</font>
@@ -14,7 +17,7 @@ _这里显示的倾斜体_
 ```
 
 ### 分级标题
-```
+``` 
 # 一级标题
 ## 二级标题
 ### 三级标题
@@ -87,8 +90,8 @@ _   底线
 ```
 
 ### 表格
-| 选项 | 描述 |
-| ------ | -------- |
-| data   | path  |
-| engine | engine  |
+| 选项   | 描述      |
+| ------ | --------- |
+| data   | path      |
+| engine | engine    |
 | ext    | extension |
